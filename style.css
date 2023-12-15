@@ -30,6 +30,10 @@ h1 {
 
     border: teal solid 3px;
     font-size: 50px;
+    margin-bottom: 60px;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding: 5px;
 }
 
 a {
